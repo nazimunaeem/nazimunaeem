@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ReadmeCraft</string>
+    <string name="tab_preview">Preview</string>
+    <string name="tab_customize">Customize</string>
+    <string name="tab_decoratives">Decoratives</string>
+    <string name="tab_markdown">Markdown</string>
+    <string name="action_copy_markdown">Copy README.md</string>
+    <string name="action_share_markdown">Share</string>
+    <string name="action_reset_defaults">Reset Defaults</string>
+    <string name="copied_snackbar">Decorative README.md copied to clipboard</string>
+    <string name="reset_snackbar">Restored nazimunaeem decorative template</string>
+</resources>

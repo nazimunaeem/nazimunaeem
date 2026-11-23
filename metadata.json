@@ -1,0 +1,8 @@
+{
+  "name": "ReadmeCraft",
+  "description": "Decorative GitHub Profile README studio and live preview builder for nazimunaeem.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
