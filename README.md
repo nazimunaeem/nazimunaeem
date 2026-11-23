@@ -1,12 +1,6 @@
-<!-- Header Banner with Typing SVG -->
+<!-- Header Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Md.%20Nazim%20Uddin&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Developer%20%7C%20Economics%20Grad%20Student%20%7C%20EdTech%20Builder&descAlignY=58&descSize=18" width="100%" />
-</div>
-
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+Android+Apps%2C+Web+Portals+%26+Automation;Mentor+%26+Founder+%40+Excellence+Lab;Economics+Grad+Student+%7C+AI-Assisted+Builder" alt="Typing SVG" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Md.%20Nazim%20Uddin&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=45" width="100%" />
 </div>
 
 <p align="center">
@@ -19,15 +13,55 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-### 👨‍💻 About Me
+### 🚀 Repositories
 
-```yaml
-name: Md. Nazim Uddin (NAZIM U. NAEEM)
-location: Dhaka, Bangladesh 🇧🇩
-education:
-  - Master of Economics for Professionals (University of Dhaka)
-  - M.Sc. & B.Sc. (Hons.) in Geology (University of Dhaka)
-focus:
-  - Applied Economics & Financial Analytics
-  - Android Utilities (Kotlin / Jetpack Compose) & Web Portals
-  - Workflow Automation, Python Scripting & EdTech Platforms
+| Repository | Description | Language | Stars |
+| :--- | :--- | :--- | :---: |
+| **[SweepGallery](https://github.com/nazimunaeem/SweepGallery)** | Swipe to delete or keep photo. | `Kotlin` | ![Stars](https://img.shields.io/github/stars/nazimunaeem/SweepGallery?style=flat-square&color=38BDF8) |
+| **[IPDial](https://github.com/nazimunaeem/IPDial)** | SIP Calling Client. | `Kotlin` | ![Stars](https://img.shields.io/github/stars/nazimunaeem/IPDial?style=flat-square&color=38BDF8) |
+| **[kindle-clock](https://github.com/nazimunaeem/kindle-clock)** | Clock utility for Kindle devices. | `C` | ![Stars](https://img.shields.io/github/stars/nazimunaeem/kindle-clock?style=flat-square&color=38BDF8) |
+| **[FinSignal](https://github.com/nazimunaeem/FinSignal)** | Financial signals and alerts project. | `Kotlin` | ![Stars](https://img.shields.io/github/stars/nazimunaeem/FinSignal?style=flat-square&color=38BDF8) |
+| **[bkash-sms-forwarder](https://github.com/nazimunaeem/bkash-sms-forwarder)** | SMS forwarding utility for bKash alerts. | `Java` | ![Stars](https://img.shields.io/github/stars/nazimunaeem/bkash-sms-forwarder?style=flat-square&color=38BDF8) |
+| **[jagoron-library-management-system](https://github.com/nazimunaeem/jagoron-library-management-system)** | Library management system for Jagoron. | `Web` | ![Stars](https://img.shields.io/github/stars/nazimunaeem/jagoron-library-management-system?style=flat-square&color=38BDF8) |
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+### 🧰 Languages & Tools
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,kotlin,c,java,php,js,html,css,mysql,bash&theme=dark" />
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=androidstudio,firebase,docker,linux,ubuntu,cloudflare,git,github&theme=dark" />
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=vscode,apple,vim,postman&theme=dark" />
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=nazimunaeem&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazimunaeem&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nazimunaeem&theme=tokyonight&hide_border=true&background=0D1117" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nazimunaeem&theme=tokyo-night&hide_border=true&bg_color=0D1117" width="95%" />
+</div>
+
+<!-- Footer Wave -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=110&section=footer" width="100%" />
+</div>
