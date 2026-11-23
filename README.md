@@ -30,15 +30,15 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,kotlin,c,java,php,js,html,css,mysql,bash&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,kotlin,java,php,js,html,css,mysql,bash&theme=dark" />
 
 <br/><br/>
 
-<img src="https://skillicons.dev/icons?i=androidstudio,firebase,docker,linux,ubuntu,cloudflare,git,github&theme=dark" />
+<img src="https://skillicons.dev/icons?i=androidstudio,firebase,linux,ubuntu,cloudflare,git,github&theme=dark" />
 
 <br/><br/>
 
-<img src="https://skillicons.dev/icons?i=vscode,apple,vim,postman&theme=dark" />
+<img src="https://skillicons.dev/icons?i=vscode,apple&theme=dark" />
 
 </div>
 
